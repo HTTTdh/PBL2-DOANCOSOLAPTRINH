@@ -1,0 +1,20 @@
+Ky thuat dien tu - vien thong,7520207,23.5
+Cong nghe thuc pham,7540101,25
+Cong nghe thong tin,7480201,28
+Ki thuat o to,7520130,22.5
+Kinh te xay dung,7580301,19
+Kien truc,7580101,19.15
+Ki thuat may tinh,7480106,26
+Ki thuat moi truong,7520320,15
+Cong nghe sinh hoc,7420201,22.75
+Tu dong hoa,7520216,25.2
+Quan li cong nghiep,7510601,21.5
+Co khi hang khong,7520103B,22.15
+Ki thuat nhiet,7520115,16.45
+Cong nghe che tao may,7510202,22.5
+Ki thuat dien,7520201,21.5
+Ki thuat xay dung,7580301,18.1
+Ki thuat hoa hoc,7520301,20.05
+Ki thuat co dien tu,7520114,24.45
+Quan li tai nguyen va moi truong,7850101,17
+Ki thuat co so ha tang,7580210,18
